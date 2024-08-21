@@ -1,3 +1,6 @@
+# gamma-site
+Um site que apresenta os resumos e estudos de caso de Ciência de Dados
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

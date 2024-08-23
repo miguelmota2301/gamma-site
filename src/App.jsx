@@ -151,7 +151,7 @@ function App() {
       <NavBar />
       <div className="content">
         <h1>Visualizador de PDF</h1>
-        <PDFViewer src="src/resumos/completo.pdf" />
+        <PDFViewer src={`${process.env.PUBLIC_URL}/resumos/completo.pdf`} />
       </div>
     </div>
   );
